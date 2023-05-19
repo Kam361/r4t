@@ -1,5 +1,14 @@
-h1{
-    background-color: aquaz;
-    font-size: 322px;
+h1,button{
+    background-color: aqua;
+    font-size: 200px;
     color: red;
+    display: inline;
+}
+h1:hover{
+    background-color: black;
+    color: red;
+}
+button:hover{
+background-color: rgb(238, 14, 14);
+color: rgb(17, 17, 17);
 }
